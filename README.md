@@ -1,7 +1,7 @@
 # 📋 Extrator de Contatos para CRM
 
 Script Python que varre uma pasta com pedidos em `.xlsx`, extrai automaticamente o **nome do cliente** e o **telefone de contato** de cada arquivo, remove duplicatas e gera uma lista de CRM pronta para uso.
-
+Obs.: Funciona apenas nas planilhas padrão que a Blackstamp usa para organizar os pedidos/ordem de produção.
 ---
 
 ## 🚀 Como funciona
